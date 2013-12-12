@@ -1,5 +1,4 @@
-Minesweeper
-===========
+# Minesweeper
 
 This is designed to be a multi-step problem!
 
